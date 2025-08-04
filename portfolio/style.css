@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(43, 38, 38);
+    color: whitesmoke;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+h1, h2 {
+    text-align: center;
+    color: rgb(86, 168, 97);
+}
+img {
+    width: 30%;
+    height: 100%;
+    border-radius: 5%;
+    float: right;
+}
+.section{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 30px;
+    padding: 1%;
+    margin: 2%;
+    max-width: 70%;
+    max-height: 100%;
+
+}
